@@ -1,7 +1,6 @@
 - 👋 Hi, My Name's Aji Hamdani Ahmad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java and Dart
-
+- 🌱 Entusiast with React JS
 
 <h1>Language : </h1>
 <p>
