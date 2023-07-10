@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danni4421&label=Profile%20views&color=0e75b6&style=flat" alt="danni4421" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Back End With Hapi JS**
 
 - 📫 How to reach me **ajhmdni02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://linktree-ajihamdaniahmad.netlify.app/
 <p align="left">
 </p>
 
