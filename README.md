@@ -2,7 +2,7 @@
 <h3 align="center">Passionate to be Fullstack Web Developer</h3>
 <div align="center">
   
- 🌱 I’m currently learning **Back End With Hapi JS**
+ 🌱 I’m currently learning **Back End Node js with Hapi**
 
 📫 How to reach me **ajhmdni02@gmail.com**
 
