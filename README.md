@@ -1,39 +1,4 @@
-<style>
-    .waving {
-        margin-bottom: -10px;
-        animation: wave 2.5s infinite;
-    }
-
-    @keyframes wave {
-        0%, 7% {
-            transform: rotateZ(0);
-        }
-        
-        15% {
-            transform: rotateZ(-15deg);
-        }
-        
-        20% {
-            transform: rotateZ(10deg);
-        }
-        
-        25% {
-            transform: rotateZ(-10deg);
-        }
-    
-        30% {
-            transform: rotateZ(6deg);
-        }
-        
-        35% {
-            transform: rotateZ(-4deg);
-        }
-        
-        40%, 100% {
-            transform: rotateZ(0);
-        }
-    }
-</style>
+<link href="./assets/css/style.css" rel="stylesheet"></link>
 
 <h1 align="center">Hi <img src="./assets/wave.png" class="waving" width="50"/>, I'm Dani</h1>
 <h3 align="center">Passionate to be Fullstack Web Developer</h3>
