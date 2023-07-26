@@ -1,6 +1,4 @@
-<link href="./assets/css/style.css" rel="stylesheet"></link>
-
-<h1 align="center">Hi <img src="./assets/wave.png" class="waving" width="50"/>, I'm Dani</h1>
+<h1 align="center">Hi <img src="./assets/wave.png" style="margin-bottom: -15px; margin-left: -10px;" width="75"/>, I'm Dani</h1>
 <h3 align="center">Passionate to be Fullstack Web Developer</h3>
 <div align="center">
   
