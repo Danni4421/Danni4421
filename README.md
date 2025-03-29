@@ -1,19 +1,38 @@
-<h1 align="center">Hi <img src="./assets/wave.png" style="margin-bottom: -15px; margin-left: -10px;" width="75"/>, I'm Dani</h1>
+<img src="./assets/smile.gif" style="margin: 0 auto;">
 
-# 💫 About Me:
-👋 Hello! I'm an Informatics Engineering student with a strong foundation in backend development<br>💻 Experienced in building robust backend solutions.<br>⚙️ Proficient in JavaScript frameworks (Hapi, Express) and Laravel.<br>🌐 Currently honing my skills in Nest.js for advanced backend development.<br>🎯 Passionate about developing scalable applications.<br>🌱 Always learning, and working on projects that challenge my problem-solving skills.
+# 👋 Hey there, I'm Dani!
 
+Just a coding enthusiast who's studying Informatics Engineering while building cool stuff on the backend.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100086121013550) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aji.hmdni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajihamdaniahmad) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sigmaadev_) 
+## 🚀 What I'm Up To
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Danni4421&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danni4421&theme=dark&hide_border=false)
+Everytime, I'm playing with:
 
----
-[![](https://visitcount.itsvg.in/api?id=Danni4421&icon=2&color=6)](https://visitcount.itsvg.in)
+- JavaScript (having fun with Hapi and Express, also with React)
+- Laravel magic
+- Getting my hands dirty with Nest.js these days
+- Exploring Golang (excited to learn this next!)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I get a kick out of building apps that actually work well when tons of people use them!
+
+## 🔗 Let's Hang Out Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajihamdaniahmad)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aji.hmdni)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100086121013550)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sigmaadev_)
+
+## 💻 My Favorite Toys
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+## ✨ My GitHub Story
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danni4421&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+[![Visitors](https://visitcount.itsvg.in/api?id=Danni4421&icon=2&color=6)](https://visitcount.itsvg.in)
